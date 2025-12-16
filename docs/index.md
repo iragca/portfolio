@@ -10,7 +10,7 @@ I have experience and interests in the following fields:
 
     I like it when data points me in the right direction.
 
-    [:octicons-arrow-right-24: Favorite Project](projects/data-science/megaplant/)
+    [:octicons-arrow-right-24: Favorite project](projects/data-science/megaplant/)
 
 -   :simple-svelte:{ .lg .middle } __Web Development__
 
@@ -18,6 +18,6 @@ I have experience and interests in the following fields:
  
     Building open-source web-apps for my hobbies, or for solving problems
 
-    [:octicons-arrow-right-24: Favorite Project](projects/web-dev/map/)
+    [:octicons-arrow-right-24: Favorite project](projects/web-dev/map/)
 
 </div>
