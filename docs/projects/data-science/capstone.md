@@ -34,11 +34,11 @@ Textual and Relational Analysis of Community Extremism (TRACE) is my capstone pr
 
 ## Methodology
 
-- Retrieve training data through web-scraping and API access.
-- Use a self-hosted [PocketBase](https://pocketbase.io/) instance to store datasets.
+- Retrieve training data through web-scraping and API access
+- Use a self-hosted [PocketBase](https://pocketbase.io/) instance to store datasets
 - Use Graph Neural Networks to model user-tweet relationship
 - [MLFlow](https://mlflow.org/) for recording experiments
 
 ## Metrics
 
-- 88.7% accuracy in predicting an interaction (reply) between a user and a tweet.
+- 88.7% accuracy in predicting an interaction (reply) between a user and a tweet
