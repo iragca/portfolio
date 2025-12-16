@@ -45,3 +45,4 @@ A consolidated leaf-image dataset designed to support plant disease classificati
 ## Metrics
 
 - Average increase of 8% in classification accuracy relative to foundational datasets
+- 95.12% accuracy in classying plant disease
