@@ -32,6 +32,12 @@ Textual and Relational Analysis of Community Extremism (TRACE) is my capstone pr
 
     <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/capstone/website.png">
 
+=== "Demo"
+
+    <video autoplay muted loop playsinlinesrc controls>
+      <source src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/capstone/demo.mp4">
+    </video>
+
 ## Methodology
 
 - Retrieve training data through web-scraping and API access
