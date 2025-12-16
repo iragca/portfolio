@@ -1,0 +1,63 @@
+site_name: Portfolio
+theme:
+  name: material
+  features:
+    - navigation.sections # group by category
+    - navigation.expand # expand all sections
+  icon:
+    tag:
+      python: simple/python
+      image-classification: material/image-check
+      plant-pathology: fontawesome/solid/leaf
+      coursework: material/school
+      css: fontawesome/brands/css3
+      javascript: fontawesome/brands/js
+      html: fontawesome/brands/html5
+      svelte: simple/svelte
+      cloudflare: simple/cloudflare
+      cloudflarepages: simple/cloudflarepages
+
+extra:
+  tags:
+    Python: python
+    "Image Classification": image-classification
+    "Plant Pathology": plant-pathology
+    "Coursework": coursework
+    CSS: css
+    JavaScript: javascript
+    HTML: html
+    Svelte: svelte
+    Cloudflare: cloudflare
+    "Cloudflare Pages": cloudflarepages
+
+repo_url: https://github.com/iragca/portfolio
+
+watch:
+  - docs/projects/
+  - docs/index.md
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - Home: index.md
+  - "Data Science":
+      - "Capstone Project": projects/data-science/capstone.md
+      - "MegaPlant": projects/data-science/megaplant.md
+  - "Web Development":
+      - "Interactive 2D Map": projects/web-dev/map.md
+  - Tags: tags.md
+
+extra_css:
+  - assets/styles.css

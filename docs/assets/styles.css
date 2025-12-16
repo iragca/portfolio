@@ -1,0 +1,10 @@
+.md-button {
+  font-size: 0.7rem;
+  padding: 0.2rem;
+}
+
+p:has(.md-button) {
+  display: flex;
+  gap: 0.2rem;
+  justify-content: flex-end;
+}

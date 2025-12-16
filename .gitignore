@@ -1,0 +1,8 @@
+# Python virtual environments
+.venv/
+
+# Cache files
+.cache/
+
+# MkDocs site directory
+site/
