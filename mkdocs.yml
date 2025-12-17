@@ -16,6 +16,9 @@ theme:
       svelte: simple/svelte
       cloudflare: simple/cloudflare
       cloudflarepages: simple/cloudflarepages
+      fastapi: simple/fastapi
+      docker: fontawesome/brands/docker
+      react: fontawesome/brands/react
 
 extra:
   tags:
@@ -29,6 +32,9 @@ extra:
     Svelte: svelte
     Cloudflare: cloudflare
     "Cloudflare Pages": cloudflarepages
+    "FastAPI": fastapi
+    "Docker": docker
+    "React": react
 
 repo_url: https://github.com/iragca/portfolio
 
@@ -44,6 +50,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -57,6 +64,7 @@ nav:
       - "MegaPlant": projects/data-science/megaplant.md
   - "Web Development":
       - "Interactive 2D Map": projects/web-dev/map.md
+      - "Docuisine": projects/web-dev/docuisine.md
   - Tags: tags.md
 
 extra_css:
