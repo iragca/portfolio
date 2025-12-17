@@ -11,7 +11,7 @@ tags:
 
 <div style="display: flex;">
 
-<img align="left" height="120" width="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/docuisine-no-base.avif" />
+<img align="left" height="120" width="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/docuisine-no-base.png" />
 
 <div>
 Docuisine is a self-managed/hosted application for saving and documenting food recipes.
