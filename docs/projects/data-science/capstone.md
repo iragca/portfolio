@@ -20,6 +20,10 @@ Textual and Relational Analysis of Community Extremism (TRACE) is our capstone p
 [Website :material-web:](https://capstone2-mvp3-frontend-cfworkers.chrisgari.workers.dev){ .md-button }
 [GitHub :simple-github:](https://github.com/iragca/capstone-project-2){ .md-button }
 
+!!! warning "Warning"
+
+    The backend is self-hosted on a machine that is turned off most of the time, [contact me](mailto:iragca@pm.me) to turn it on for a demonstration of the app.
+
 === "Paper"
 
     <embed src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/capstone/trace.pdf"
