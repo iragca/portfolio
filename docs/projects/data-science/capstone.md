@@ -13,7 +13,7 @@ tags:
 <img align="left" height="120" width="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/capstone/trace-bg.svg" />
 
 <div>
-Textual and Relational Analysis of Community Extremism (TRACE) is my capstone project together with my groupmates as Bachelor of Science in Data Science students. Its primary goal is to model user-tweet interactions in Twitter / X and find out which users are more likely to interact with extremist tweets.
+Textual and Relational Analysis of Community Extremism (TRACE) is our capstone project together with my groupmates as Bachelor of Science in Data Science students. Its primary goal is to model user-tweet interactions in Twitter / X and find out which users are more likely to interact with extremist tweets.
 </div>
 </div>
 
