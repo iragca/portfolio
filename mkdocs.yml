@@ -1,4 +1,6 @@
-site_name: Portfolio
+site_name: Chris Irag
+copyright: Copyright &copy; 2025 Chris Irag
+site_url: https://iragca.github.io/portfolio/
 theme:
   name: material
   features:
