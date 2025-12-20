@@ -18,6 +18,7 @@ Docuisine is a self-managed/hosted application for saving and documenting food r
 </div>
 </div>
 
+[Website :material-web:](https://iragca.github.io/docuisine/){ .md-button }
 [GitHub :simple-github:](https://github.com/iragca/docuisine){ .md-button }
 
 !!! info "Work in progress"
