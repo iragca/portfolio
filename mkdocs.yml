@@ -22,7 +22,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/weather-night
-        name: Switch to system preference
+        name: Switch to light mode
   features:
     # - content.action.edit
     # - content.action.view
