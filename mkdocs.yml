@@ -117,7 +117,7 @@ nav:
           - "Capstone Project": projects/data-science/capstone.md
           - "MegaPlant": projects/data-science/megaplant.md
       - "Web Development":
-          - "Interactive 2D Map": projects/web-dev/map.md
+          - "USTP-CDO Map": projects/web-dev/map.md
           - "Docuisine": projects/web-dev/docuisine.md
       - Tags: tags.md
   - History: history.md
