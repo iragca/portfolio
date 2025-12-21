@@ -3,9 +3,54 @@ copyright: Copyright &copy; 2025 Chris Irag
 site_url: https://iragca.github.io/portfolio/
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  font:
+    text: Roboto
+    code: Roboto Mon
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   features:
-    - navigation.sections # group by category
-    - navigation.expand # expand all sections
+    # - content.action.edit
+    # - content.action.view
+    # - content.code.annotate
+    # - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    # - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.top
+    # - navigation.tracking
+    # - search.highlight
+    # - search.share
+    # - search.suggest
+    # - toc.follow
+    # - toc.integrate
   icon:
     tag:
       python: simple/python
@@ -37,8 +82,11 @@ extra:
     "FastAPI": fastapi
     "Docker": docker
     "React": react
-
-repo_url: https://github.com/iragca/portfolio
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/iragca
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/chris-andrei-irag/
 
 watch:
   - docs/projects/
@@ -59,15 +107,21 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - neoteroi.timeline
+
 nav:
   - Home: index.md
-  - "Data Science":
-      - "Capstone Project": projects/data-science/capstone.md
-      - "MegaPlant": projects/data-science/megaplant.md
-  - "Web Development":
-      - "Interactive 2D Map": projects/web-dev/map.md
-      - "Docuisine": projects/web-dev/docuisine.md
-  - Tags: tags.md
+  - Projects:
+      - projects/index.md
+      - "Data Science":
+          - "Capstone Project": projects/data-science/capstone.md
+          - "MegaPlant": projects/data-science/megaplant.md
+      - "Web Development":
+          - "Interactive 2D Map": projects/web-dev/map.md
+          - "Docuisine": projects/web-dev/docuisine.md
+      - Tags: tags.md
+  - History: history.md
 
 extra_css:
   - assets/styles.css
+  - assets/timeline.css
