@@ -4,7 +4,7 @@ on:
     branches:
       - master
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 jobs:
@@ -19,7 +19,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install zensical
+      - run: pip install zensical neoteroi-mkdocs
       - run: zensical build --clean 
       - uses: actions/upload-pages-artifact@v4
         with:
