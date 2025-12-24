@@ -25,7 +25,7 @@ clean:
 ## Run mkdocs local server
 .PHONY: docs
 docs:
-	uv run mkdocs serve -f mkdocs.yml -a 0.0.0.0:7000
+	uv run zensical serve -f mkdocs.yml -a 0.0.0.0:7000
 
 
 ## Set up Python interpreter environment
