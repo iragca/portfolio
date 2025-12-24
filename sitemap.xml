@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://iragca.github.io/portfolio/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/history/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/tags/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/projects/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/projects/data-science/capstone/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/projects/data-science/megaplant/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/projects/web-dev/docuisine/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+    <url>
+         <loc>https://iragca.github.io/portfolio/projects/web-dev/map/</loc>
+         <lastmod>2025-12-24</lastmod>
+    </url>
+</urlset>
