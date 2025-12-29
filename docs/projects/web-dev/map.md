@@ -55,10 +55,11 @@ USTP-CDO Campus Interactive Map is an interactive map of my alumni university Un
 ## Methodology
 
 - Open-source data augmented with gathered data
-- Frameworks
+
+### Frameworks
   - [Svelte](https://svelte.dev/) for the frontend framework
   - [Leaflet](https://leafletjs.com/) for the mapping engine
-- Cloud
+### Cloud
   - Static page hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
   - Images hosted on [Cloudinary](https://cloudinary.com/)
 
