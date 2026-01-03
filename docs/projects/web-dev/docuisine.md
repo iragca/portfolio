@@ -31,13 +31,21 @@ Docuisine is a self-managed/hosted application for saving and documenting food r
 
     <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/signup_page.png">
 
+=== "Creating a recipe"
+
+    <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/create_recipe.png">
+
+=== "Account settings"
+
+    <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/account_page.png">
+
 ## Features
 
 - Create, browse, and share recipes
 - Save and organize cookbooks
-- Manage a variety of ingredients
-- Rich metadata for recipes, ingredients, and stores
-- Can be self-hosted or deployed using free offerings from Cloudflare, Vercel and Supabase
+- Manage a variety of ingredients, and kitchen tool information
+- Rich metadata for recipes, ingredients, and supermarket/stores
+- Can be self-hosted on a single machine or deployed using free offerings from Cloudflare, Vercel and Supabase
 
 ## Methodology
 
