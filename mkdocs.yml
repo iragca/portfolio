@@ -118,7 +118,6 @@ nav:
       - "Web Development":
           - "USTP-CDO Map": projects/web-dev/map.md
           - "Docuisine": projects/web-dev/docuisine.md
-      - Tags: tags.md
   - History: history.md
 
 extra_css:
