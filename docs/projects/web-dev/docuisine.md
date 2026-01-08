@@ -53,7 +53,8 @@ Docuisine is a self-managed/hosted application for saving and documenting food r
 ### Frameworks
 
 - [React](https://react.dev/) for the frontend framework
-- [Shadcn](https://ui.shadcn.com/) for the UI components
+- [Shadcn](https://ui.shadcn.com/) + [TailwindCSS](https://tailwindcss.com/) for the UI components
+- [FastAPI](https://fastapi.tiangolo.com/) for the Python backend
 
 ### Cloud
 
