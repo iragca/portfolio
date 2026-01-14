@@ -35,3 +35,21 @@ I always love building solutions for things that I am passionate about.
     [:octicons-arrow-right-24: Details](projects/web-dev/map.md)
 
 </div>
+
+
+## Currently working on this
+
+<div class="grid cards" markdown>
+
+-   :lucide-hammer:{ .lg .middle } __Docuisine__
+
+    ---
+
+    <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/homepage.png">
+
+    Browse, create and share recipes.
+
+    [:octicons-arrow-right-24: Details](projects/web-dev/docuisine.md)
+
+
+</div>
