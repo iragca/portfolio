@@ -1,6 +1,8 @@
 site_name: Chris Irag
 copyright: Copyright &copy; 2026 Chris Irag
 site_url: https://iragca.github.io/portfolio/
+repo_url: https://github.com/iragca/iragca
+repo_name: github/iragca
 theme:
   name: material
   logo: assets/logo.png
