@@ -53,3 +53,10 @@ I always love building solutions for things that I am passionate about.
 
 
 </div>
+
+
+## Trackers
+
+[![roadmap.sh](https://roadmap.sh/card/tall/696751d7e3a4245b31c1215f?variant=dark&roadmaps=%2Cdevops%2Cpython%2Cdata-engineer)](https://roadmap.sh/u/iragca)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/iragca?ext=activity)
