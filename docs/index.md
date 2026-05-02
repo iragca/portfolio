@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+title: Home
 ---
 
 # Hi, my name is Chris Irag
