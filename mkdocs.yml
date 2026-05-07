@@ -117,6 +117,7 @@ nav:
       - "Data Science":
           - "Capstone Project": projects/data-science/capstone.md
           - "MegaPlant": projects/data-science/megaplant.md
+          - "StateWatch": projects/data-science/statewatch.md
       - "Web Development":
           - "USTP-CDO Map": projects/web-dev/map.md
           - "Docuisine": projects/web-dev/docuisine.md
