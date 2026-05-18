@@ -10,7 +10,7 @@ tags:
 
 <div style="display: flex;">
 
-<img align="left" height="120" width="120" src="https://ustp.party/map/map-logo.svg" />
+<img align="left" height="120" width="120" src="../../../assets/map/map_map-logo.svg" />
 
 <div>
 USTP-CDO Campus Interactive Map is an interactive map of my alumni university University of Science and Technology of Southern Philippines inspired by <a href="https://campus-map.stanford.edu/">Stanford</a>. It features accessible, searchable, and shareable links to landmarks, event centers, buildings, utilities and more. These locations are accompanied with on site pictures as visual aid. All types of locations have their own identifiable pins on the map.
@@ -22,24 +22,24 @@ USTP-CDO Campus Interactive Map is an interactive map of my alumni university Un
 
 === "Landing Page"
 
-    <img src="https://ustp.party/map/map.png">
+    <img src="../../../assets/map/map_map.png">
 
 === "Points of Interests (POIs)"
 
     <video autoplay muted loop playsinlinesrc controls>
-        <source src="https://ustp.party/map/POIs.mp4">
+        <source src="../../../assets/map/map_POIs.mp4">
     </video>
 
 === "Finding POIs"
 
     <video autoplay muted loop playsinlinesrc controls>
-        <source src="https://ustp.party/map/Finding%20POIs.mp4">
+        <source src="../../../assets/map/map_Finding%20POIs.mp4">
     </video>
 
 === "Switching Themes"
 
     <video autoplay muted loop playsinlinesrc controls>
-        <source src="https://ustp.party/map/Switching%20Themes.mp4">
+        <source src="../../../assets/map/map_Switching%20Themes.mp4">
     </video>
 
 ## Features

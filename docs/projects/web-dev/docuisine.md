@@ -11,7 +11,7 @@ tags:
 
 <div style="display: flex;">
 
-<img align="left" height="120" width="120" src="https://ustp.party/docuisine/docuisine-no-base.png" />
+<img align="left" height="120" width="120" src="../../../assets/docuisine/docuisine_docuisine-no-base.png" />
 
 <div>
 Docuisine is a self-managed/hosted application for saving and documenting food recipes. Inspired by my hobby of cooking, I aimed to document favorites recipes I encounter and wish to cook myself. These recipes are rich in metadata and can be easily shared with friends over the internet.
@@ -26,19 +26,19 @@ Docuisine is a self-managed/hosted application for saving and documenting food r
 
 === "Homepage"
 
-    <img src="https://ustp.party/docuisine/homepage.png">
+    <img src="../../../assets/docuisine/docuisine_homepage.png">
 
 === "Signing up"
 
-    <img src="https://ustp.party/docuisine/signup_page.png">
+    <img src="../../../assets/docuisine/docuisine_signup_page.png">
 
 === "Creating a recipe"
 
-    <img src="https://ustp.party/docuisine/create_recipe.png">
+    <img src="../../../assets/docuisine/docuisine_create_recipe.png">
 
 === "Account settings"
 
-    <img src="https://ustp.party/docuisine/account_page.png">
+    <img src="../../../assets/docuisine/docuisine_account_page.png">
 
 ## Features
 

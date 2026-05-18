@@ -10,7 +10,7 @@ tags:
 
 <div style="display: flex;">
 
-<img align="left" height="120" width="120" src="https://ustp.party/capstone/trace-bg.svg" />
+<img align="left" height="120" width="120" src="../../../assets/capstone/capstone_trace-bg.svg" />
 
 <div>
 Textual and Relational Analysis of Community Extremism (TRACE) is our capstone project together with my groupmates as Bachelor of Science in Data Science students. Its primary goal is to model user-tweet interactions in Twitter / X and find out which users are more likely to interact with extremist tweets.
@@ -26,7 +26,7 @@ Textual and Relational Analysis of Community Extremism (TRACE) is our capstone p
 
 === "Paper"
 
-    <embed src="https://ustp.party/capstone/trace.pdf"
+    <embed src="../../../assets/capstone/capstone_trace.pdf"
     type="application/pdf"
     width="100%"
     height="800px"
@@ -34,12 +34,12 @@ Textual and Relational Analysis of Community Extremism (TRACE) is our capstone p
 
 === "Website"
 
-    <img src="https://ustp.party/capstone/website.png">
+    <img src="../../../assets/capstone/capstone_website.png">
 
 === "Demo"
 
     <video autoplay muted loop playsinlinesrc controls>
-      <source src="https://ustp.party/capstone/demo.mp4">
+      <source src="../../../assets/capstone/capstone_demo.mp4">
     </video>
 
 ## Methodology
