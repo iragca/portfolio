@@ -18,7 +18,7 @@ I always love building solutions for things that I am passionate about.
 
     ---
 
-    <img src="https://ustp.party/capstone/website.png">
+    <img src="../../../assets/capstone/capstone_website.png">
 
     My final group capstone project as a **BSc Data Science** student.
 
@@ -29,7 +29,7 @@ I always love building solutions for things that I am passionate about.
     ---
 
 
-    <img src="https://ustp.party/map/map.png">
+    <img src="../../../assets/map/map_map.png">
 
     Interactive 2D map of my university campus.
 
@@ -46,7 +46,7 @@ I always love building solutions for things that I am passionate about.
 
     ---
 
-    <img src="https://ustp.party/docuisine/homepage.png">
+    <img src="../../../assets/docuisine/docuisine_homepage.png">
 
     Browse, create and share recipes.
 
