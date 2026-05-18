@@ -10,7 +10,7 @@ tags:
 
 <div style="display: flex;">
 
-<img align="left" height="120" width="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/megaplant/logo.png" />
+<img align="left" height="120" width="120" src="https://ustp.party/megaplant/logo.png" />
 
 <div>
 A consolidated leaf-image dataset designed to support plant disease classification models that generalize across diverse environmental conditions, from controlled laboratory settings to highly variable in-field scenarios. MegaPlant integrates multiple publicly available datasets and standardizes them into a unified taxonomy of healthy and diseased leaf categories, enabling robust training across modalities.
@@ -22,7 +22,7 @@ A consolidated leaf-image dataset designed to support plant disease classificati
 
 === "Paper"
 
-    <embed src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/megaplant/megaplant.pdf"
+    <embed src="https://ustp.party/megaplant/megaplant.pdf"
     type="application/pdf"
     width="100%"
     height="800px"
@@ -30,11 +30,11 @@ A consolidated leaf-image dataset designed to support plant disease classificati
 
 === "Website"
 
-    <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/megaplant/website.png">
+    <img src="https://ustp.party/megaplant/website.png">
 
 === "Jupyter Notebook"
 
-    <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/megaplant/jp-nb.png">
+    <img src="https://ustp.party/megaplant/jp-nb.png">
 
 ## Methodology
 

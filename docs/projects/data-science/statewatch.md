@@ -20,7 +20,7 @@ StateWatch is a simple data pipeline to gather financial data of multiple traded
 
 === "Dashboard"
 
-    <img src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/statewatch/dashboard.png">
+    <img src="https://ustp.party/statewatch/dashboard.png">
 
 ## Methodology
 
