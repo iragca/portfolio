@@ -121,6 +121,9 @@ nav:
       - "Web Development":
           - "USTP-CDO Map": projects/web-dev/map.md
           - "Docuisine": projects/web-dev/docuisine.md
+      - "Tooling":
+          - "prof4nities": projects/tooling/prof4nities.md
+          - "iragca-python": projects/tooling/iragca.md
   - History: history.md
 
 extra_css:
